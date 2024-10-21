@@ -19,6 +19,7 @@ footer {
   padding: 20px;
   text-align: center;
 }
+
 .links {
   margin: 5px;
   color: #007bff;
@@ -29,6 +30,7 @@ footer {
 h2 {
   color: #333;
 }
+
 .textDiv {
   margin: 20px;
   padding: 20px;
@@ -43,11 +45,17 @@ h2 {
   height: 300px;
   border-radius: 150px;
 }
+
 .imgDev {
   text-align: center;
 }
+
 .centralDiv {
   margin: 40px;
+}
+
+.connectDiv {
+  text-align: center;
 }
 .connect {
   padding: 10px 20px;
@@ -58,6 +66,24 @@ h2 {
   border-radius: 5px;
   margin: 5px;
 }
+
 li {
   margin-top: 10px;
+}
+
+table {
+  margin: 20px;
+  background: #fff;
+}
+
+th,
+td {
+  padding: 20px;
+  text-align: left;
+  border-bottom: 1px solid;
+  border-color: #beb5b5;
+}
+
+th {
+  background: #007bff;
 }
